@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProductsWithCoroutines</string>
+    <string name="title_activity_details_screen">DetailsScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_favorite_screen">FavoriteScreen</string>
+    <string name="title_activity_all_products_screen">AllProductsScreen</string>
+</resources>
